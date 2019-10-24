@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">D-ICEBREAKERS</string>
+    <string name="waiting_for_roll">waiting_roll_text</string>
+    <string name="roll_me">roll_button</string>
+    <string name="dice_button">I\'m Feeling Lucky</string>
+    <string name="dicebreaker_button">Let\'s play D-ICEBREAKERS</string>
+</resources>
