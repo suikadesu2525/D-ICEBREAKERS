@@ -4,4 +4,5 @@
     <string name="roll_me">roll_button</string>
     <string name="dice_button">I\'m Feeling Lucky</string>
     <string name="dicebreaker_button">Let\'s play D-ICEBREAKERS</string>
+    <string name="emptyquestion_text">bruh, pls enter a question</string>
 </resources>

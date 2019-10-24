@@ -42,12 +42,24 @@
 
     <TextView
         android:id="@+id/diceNum"
-        android:layout_width="97dp"
-        android:layout_height="55dp"
+        android:layout_width="307dp"
+        android:layout_height="47dp"
+        android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.487"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.072" />
+
+    <Button
+        android:id="@+id/addRule"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add new rule"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.822" />
 </androidx.constraintlayout.widget.ConstraintLayout>
