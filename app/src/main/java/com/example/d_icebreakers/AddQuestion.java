@@ -28,6 +28,7 @@ public class AddQuestion extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 finishActivity(2);
+                finish();
             }
         });
     }
